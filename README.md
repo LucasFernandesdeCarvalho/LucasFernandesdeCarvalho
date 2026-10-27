@@ -47,9 +47,23 @@ Desenvolvedor de software com foco em criar soluções eficientes, integrações
 
 Explore meus repositórios públicos para conhecer meus projetos e experimentos.
 
-### 📫 Contato
 
-[Meu GitHub](https://github.com/LucasFernandesdeCarvalho)
+### 📫 Entre em contato
+
+Estou aberto a conexões profissionais, oportunidades e novos desafios na área de desenvolvimento de software.
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511932531819)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfernandesdecarvalho13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasFernandesdeCarvalho)
+
+📱 **WhatsApp:** +55 (11) 93253-1819
+
+📧 **E-mail:** lucasfernandesdecarvalho13@gmail.com
+
+</div>
+
 
 ---
 
